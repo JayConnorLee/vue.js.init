@@ -108,13 +108,12 @@ npm run serve
 ~~~
 npm install -g @vue/cli
 ~~~
-<br/>
+
 
 ## Create Project
 ~~~
 vue create test
 ~~~
-<br/>
 
 ## Pick Preset
 > Choose basic preset by press Enter Default
@@ -122,8 +121,6 @@ vue create test
 Please pick a preset
 ~~~
 
-
-<br/>
 
 # VSCode Extension
 ~~~
